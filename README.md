@@ -15,5 +15,6 @@
 
 4.    Implement the use case defined only for the “Administrative staff wiil use it to handle course openning for a term.” requirement.
 
-![sad_final_edited](https://user-images.githubusercontent.com/68387972/130529394-3dc5c862-c160-4c3b-bc11-51338d5333e6.png)
+![sad-final-son-edited](https://user-images.githubusercontent.com/68387972/130529815-67b519e3-f5e7-4572-8c80-4c650baa0c4e.png)
+
 
