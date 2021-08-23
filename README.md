@@ -14,3 +14,6 @@
 3.    Desing all the defined use cases for these requirements and explain your design choises in terms of Grasp patterns
 
 4.    Implement the use case defined only for the “Administrative staff wiil use it to handle course openning for a term.” requirement.
+
+![sad_final_edited](https://user-images.githubusercontent.com/68387972/130529394-3dc5c862-c160-4c3b-bc11-51338d5333e6.png)
+
