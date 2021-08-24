@@ -17,7 +17,7 @@ University Management System analysis and design. Project document include use c
 
 4.    Implement the use case defined only for the “Administrative staff wiil use it to handle course openning for a term.” requirement.
 
-![adasdsa](https://user-images.githubusercontent.com/68387972/130530037-154cf5a5-3d53-4b20-a9af-57ddd46f90e9.png)
+![uni-management-system-domain-model](https://user-images.githubusercontent.com/68387972/130594987-5f0f8b1f-974e-4763-b298-febf010f8272.png)
 
 
 
