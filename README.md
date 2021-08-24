@@ -1,5 +1,7 @@
 # UniversityManagementSystem
 
+University Management System analysis and design. Project document include use cases, sequence diagrams and domain model. GRASP design patterns were used in the project. 
+
 ## Project Definition:
 - Students will use the system to register a class(es)
 
